@@ -1,1 +1,15 @@
 /* your code */
+body{
+	border-style:solid;
+	border-color:grey;
+	border-collapse:none;
+	border-radius:10px;
+	
+}
+tr:nth-child(even){
+	background-color:#878f99;
+	
+}
+tr{
+text-align:center;
+}
